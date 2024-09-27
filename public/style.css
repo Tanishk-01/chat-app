@@ -1,0 +1,23 @@
+body {
+    margin-left: 20px;
+}
+
+.chat{
+    background-color: beige;
+    padding: 10px;
+    border-radius: 20px;
+    display: inline-block;
+}
+
+.msg {
+    background-color: burlywood;
+    color: black;
+    border-radius: 20px;
+    padding: 2px 8px;
+}
+
+.edit{
+    background-color: beige;
+    border-radius: 20px;
+    border: none;
+}
